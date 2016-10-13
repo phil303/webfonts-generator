@@ -3,12 +3,6 @@
   "version": "0.3.4",
   "description": "Generator of webfonts from svg icons",
   "main": "src/index.js",
-  "directories": {
-    "test": "tests"
-  },
-  "scripts": {
-    "test": "mocha tests"
-  },
   "repository": {
     "type": "git",
     "url": "https://github.com/sunflowerdeath/webfonts-generator.git"
@@ -38,7 +32,6 @@
   },
   "devDependencies": {
     "file-type": "^2.7.0",
-    "mocha": "^2.0.1",
     "node-sass": "^3.4.2",
     "read-chunk": "^1.0.1"
   }
