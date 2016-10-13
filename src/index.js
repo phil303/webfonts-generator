@@ -20,6 +20,11 @@ var DEFAULT_TEMPLATE_OPTIONS = {
   classPrefix: 'icon-'
 }
 
+// files, dest, fontName, css, cssDest, cssTemplate, cssFontsPath, html,
+// htmlDest, htmlTemplate, templateOptions, types, order, rename,
+// startCodepoint, fontName, fixedWidth, centerHorizontally, normalize,
+// fontHeight, round, descent, formatOptions, writeFiles
+
 var DEFAULT_OPTIONS = {
   writeFiles: true,
   fontName: 'iconfont',
